@@ -132,15 +132,17 @@ the same pipeline applies unchanged.
 - Integrated all modules, built the Streamlit dashboard
 - Handled cloud deployment, final README, final testing, demo prep
 
-### Vadika — Data Engineer (EDA + Preprocessing)
+### Vedika — Data Engineer (EDA + Preprocessing)
 - Built and documented the dataset (`data_dictionary.csv`)
 - Data cleaning, EDA (`01_eda.ipynb`), preprocessing pipeline
 - Feature engineering (`src/features.py`), leakage prevention
 
-### Dushant — ML Engineer (Evaluation + Explainable AI)
+### Dushyant — ML Engineer (Evaluation + Explainable AI)
 - Trained and compared baseline + advanced classification models
 - Cross-validation, hyperparameter tuning, binary + multi-class evaluation
 - Implemented explainability (permutation importance / SHAP), error analysis
+
+- 
 
 ## Important disclaimer
 
