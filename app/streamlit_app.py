@@ -306,5 +306,5 @@ else:
 st.divider()
 st.caption(
     "Hackathon Success & AI Career Readiness Prediction System · "
-    "Built by Shilpi, Vadika & Dushant · B.Tech CSE Group Project"
+    "Built by Shilpi, Vedika, Dushyant & Priyanshu · B.Tech CSE Group Project"
 )
